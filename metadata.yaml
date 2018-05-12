@@ -1,0 +1,25 @@
+_repo: Trees-Every-Child-Should-KnowEasy-Tree-Studies-for-All-Seasons-of-the-Year_44186
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44186-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rogers, Julia Ellen
+    birthdate: 1866
+    gutenberg_agent_id: '35933'
+    url: http://www.gutenberg.org/2009/agents/35933
+description: ''
+gutenberg_issued: '2013-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees -- United States'
+- !lcc 'QK'
+title: 'Trees Every Child Should Know: Easy Tree Studies for All Seasons of the Year'
+url: http://www.gutenberg.org/ebooks/44186
